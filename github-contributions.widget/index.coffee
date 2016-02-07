@@ -3,7 +3,7 @@ username = "dafin"
 
 command: "curl -s https://github.com/users/#{username}/contributions_calendar_data"
 
-refreshFrequency: 7200000 # 2 hours
+refreshFrequency: 14400000 # 4 hours
 
 style: """
   left: 10px
