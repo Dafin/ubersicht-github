@@ -1,9 +1,9 @@
 # Replace with your username here.
-username = "cobyism"
+username = "dafin"
 
 command: "curl -s https://github.com/users/#{username}/contributions_calendar_data"
 
-refreshFrequency: 3600000 # 1 hour
+refreshFrequency: 7200000 # 2 hours
 
 style: """
   left: 10px
